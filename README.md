@@ -9,7 +9,8 @@
 3. Bir Mekana Ait Belirli Bir Yorumu Getir
 ![](resimler/yorumGetir.png)
 
-
+4. Yeni Bir Yorum Ekle
+![](resimler/mekanEkle.png)
 
 5. Mevcut Bir Mekanı Güncelle
 ![](resimler/mekanGuncelle.png)
