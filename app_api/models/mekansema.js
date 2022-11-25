@@ -3,6 +3,7 @@ var mongoose = require("mongoose");
 var saatSema = new mongoose.Schema({
     gunler:{type:String, required:true},
     acilis:String,
+    kapanis:String,
     kapali:{type:Boolean}
 });
 var yorumSema = new mongoose.Schema({

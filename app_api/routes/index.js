@@ -6,7 +6,7 @@ var ctrlYorumlar=require("../controllers/yorumlar");
 router
 .route("/mekanlar/:mekanid")
 .get(ctrlMekanlar.mekanGetir)
-.put(ctrlMekanlar.mekanGüncelle)
+.put(ctrlMekanlar.mekanGuncelle)
 .delete(ctrlMekanlar.mekanSil);
 
 router
@@ -20,7 +20,7 @@ router
 
 router.route("/mekanlar/:mekanid/yorumlar/:yorumid")
 .get(ctrlYorumlar.yorumGetir)
-.put(ctrlYorumlar.yorumGüncelle)
+.put(ctrlYorumlar.yorumGuncelle)
 .delete(ctrlYorumlar.yorumSil);
 
 module.exports=router;
