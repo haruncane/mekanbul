@@ -8,6 +8,7 @@
 
 [3. Bir Mekana Ait Belirli Bir Yorumu Getir](https://mekanbul5.haruncane.repl.co/api/mekanlar/637a9dbc5ffd034bead17d0f/yorumlar/637a9dcdaf150dd731f81b47)
 ![](resimler/yorumGetir.png)
+
 ---
 # Api Collections Test
 ![Collections Test](resimler/apiCollectionsTest.png)
